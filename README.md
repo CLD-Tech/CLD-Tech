@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CLD-Tech
 - 👀 I’m interested in creating innovative software and new technologies. 
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python, & Blockchain Applications.
-- 💞️ I’m looking to collaborate on Open Source Software and startup business development. 
+- 💞️ I’m looking to collaborate on Open Source Software + Startup Business Development. 
 - 📫 How to reach me is through https://matrix.to/#/#cld-tech:matrix.org
